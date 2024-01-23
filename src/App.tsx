@@ -66,7 +66,7 @@ function App() {
       display: "flex",
       flexDirection: "column",
       margin: "0 auto",
-      gap: "2rem",
+      gap: "0",
       alignItems: "center"
     }}>
       <div style={{
